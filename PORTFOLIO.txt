@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="f6.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+<body>
+    <div id="main">
+        <div id="page">
+            <div id="nav">
+                <img src="pf.png">
+                <div id="center-nev">
+                    <a href="#">ABOUT</a>
+                    <a href="#">PORTFOLIO</a>
+                    <a href="#">CONTACT</a>
+                </div>
+                <input type="text" placeholder="search">
+            </div>
+            <img src="yashipic.jpeg">
+            <div id="text">
+                <h5>Hello</h5>
+                <h1>I,m Yashika singh <br> from uttar pradesh </h1>
+                <br>
+                <h3>pursuing btech in computer science from Pranveer Singh Institute Of Technology</h3>
+                <div id="buttons">
+                    <button id="b1">LET'S TALK <i class="ri-telegram-fill"></i></button>
+                    <button id="b2">PORTFOLIO <i class="ri-arrow-right-up-line"></i></button>
+                </div>
+            </div>
+        </div>
+            
+                <div id="page2">
+                    <div id="text4">
+                        <h1>LATEST <br>PROJECTS</h1>
+                    </div>
+                    <div id="project">
+                        <div class="projects p1">
+                            <div id="text3">
+                               <h2>
+                                Spotify clone
+                               </h2> 
+                            </div>
+                            <div id="image">
+                                <img src="spotify.jpg">
+                               </div>
+                
+                        </div>
+                        <div class="projects p2">
+                            <div id="text3">
+                               <h2>
+                                Temperature coverter
+                               </h2> 
+                            </div>
+                            <div id="image">
+                                <img src="temperature.jpeg">
+                               </div>
+                            
+                        </div>
+                        <div class="projects p3">
+                            <div id="text3">
+                               <h2>
+                                Saarthi
+                               </h2> 
+                            </div>
+                            <div id="image">
+                                <img src="saarthi.jpeg">
+                               </div>
+                            
+                        </div>
+                        </div>
+                    </div>
+    <div >
+        <div id="page3">
+            <div id="text5">
+                <h1>SKILLS,EXPERIENCE<br> AND ACHIEVEMENTS</h1>
+            </div>
+            <div id="sae">
+                <div class="skills">
+                    <div id="text6">
+                        <h1>SKILLS</h1>
+                    </div>
+                    <div id="skill1">
+                        <ul>
+                            <li><h3>HTML</h3></li>
+                            <li><h3>CSS</h3></li>
+                            <li><h3>JAVASCRIPT</h3></li>
+                            <li><h3>JAVA</h3></li>
+                            <li><h3>PYTHON</h3></li>
+                            <li><h3>C</h3></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="exper">
+                    <div id="text6">
+                        <h1>EXPERIENCE</h1>
+                    </div>
+                    <div id="exper1">
+                        <ul>
+                            <li><h3>INTERNSHIP AT-BHARAT INTERN</h3></li>
+                            <li><h3>INTERNSHIP AT-OASIS INFOBYTE</h3></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="achieve">
+                    <div id="text6">
+                        <h1>ACHIEVEMENT</h1>
+                    </div>
+                    <div id="achieve1">
+                        <ul>
+                            <li><h3>VICE-PRESIDENT AT E-CELL</h3></li>
+                            <li><h3>PUBLISHED PAPER AT IJANA ON <br>CRYPTOLOGY</h3></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id="icon">
+                <ul>
+                
+                    <li><a href="https://www.linkedin.com/in/yashika-singh-a86b0b226"> <i class="ri-linkedin-box-fill"></i>Linkedin</a></li>
+                    <li><a href="https://github.com/YashikaSingh1509"> <i class="ri-github-fill"></i>Github</a></li>
+                </ul>
+            </div>
+        </div>
+        
+                    
+    </div>
+    
+
+    
+    
+</body>
+</html>
